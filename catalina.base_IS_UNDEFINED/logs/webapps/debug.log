@@ -1,0 +1,142 @@
+2019-07-07 00:13:53.133 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:13:53.211 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:13:53.096(Timestamp), 2019-07-07 00:13:53.096(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:13:53.243 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:17:55.472 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:17:55.571 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:17:55.428(Timestamp), 2019-07-07 00:17:55.428(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:17:55.576 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:19:21.614 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:19:21.702 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:19:21.585(Timestamp), 2019-07-07 00:19:21.585(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:19:21.710 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:20:00.691 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:20:00.781 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:20:00.654(Timestamp), 2019-07-07 00:20:00.654(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:20:00.786 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:21:38.451 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:21:38.587 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:21:38.391(Timestamp), 2019-07-07 00:21:38.391(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:21:38.593 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:21:55.129 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:21:55.208 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:21:55.1(Timestamp), 2019-07-07 00:21:55.1(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:21:55.215 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:31:13.943 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:31:14.020 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:31:13.902(Timestamp), 2019-07-07 00:31:13.902(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:31:14.023 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:32:11.126 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:32:11.218 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:32:11.071(Timestamp), 2019-07-07 00:32:11.071(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:32:11.221 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:34:22.795 [main] DEBUG com.zhoujie.util.ImageUtil - /Users/zhoujie/Desktop/o2o/target/classes/
+2019-07-07 00:46:18.318 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:46:18.400 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), null, 2019-07-07 00:46:18.286(Timestamp), 2019-07-07 00:46:18.286(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:46:18.403 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:46:18.422 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:46:18.423 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:/upload/item/shop63/2019070700461824582.jpg
+2019-07-07 00:46:18.423 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:46:18.423 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:46:18.423 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image//upload/item/shop63/2019070700461824582.jpg
+2019-07-07 00:46:19.157 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 00:46:19.158 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档8(String), 测试8(String), 江苏盐城8(String), 18806172172(String), /upload/item/shop63/2019070700461824582.jpg(String), 2019-07-07 00:46:18.286(Timestamp), 0(Integer), 审核中8(String), 63(Long)
+2019-07-07 00:46:19.172 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 00:48:19.156 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:48:19.236 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 00:48:19.129(Timestamp), 2019-07-07 00:48:19.129(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:48:19.240 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:48:19.254 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:48:19.254 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop64/2019070700481932741.jpg
+2019-07-07 00:48:19.254 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:48:19.254 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:48:19.254 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop64/2019070700481932741.jpg
+2019-07-07 00:48:19.991 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 00:48:19.992 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop64/2019070700481932741.jpg(String), 2019-07-07 00:48:19.129(Timestamp), 0(Integer), 审核中8(String), 64(Long)
+2019-07-07 00:48:19.994 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 00:52:51.819 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:52:51.894 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 00:52:51.791(Timestamp), 2019-07-07 00:52:51.791(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:52:51.897 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:52:51.913 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:52:51.914 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop65/2019070700525121635.jpg
+2019-07-07 00:52:51.915 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:52:51.915 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:52:51.915 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop65/2019070700525121635.jpg
+2019-07-07 00:52:52.660 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 00:52:52.662 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop65/2019070700525121635.jpg(String), 2019-07-07 00:52:51.791(Timestamp), 0(Integer), 审核中8(String), 65(Long)
+2019-07-07 00:52:52.663 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 00:59:02.036 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:59:02.096 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 00:59:02.0(Timestamp), 2019-07-07 00:59:02.0(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:59:02.100 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:59:02.115 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:02.115 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop66/2019070700590250232.jpg
+2019-07-07 00:59:02.115 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:02.115 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:02.115 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop66/2019070700590250232.jpg
+2019-07-07 00:59:02.899 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 00:59:02.900 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop66/2019070700590250232.jpg(String), 2019-07-07 00:59:02.0(Timestamp), 0(Integer), 审核中8(String), 66(Long)
+2019-07-07 00:59:02.901 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 00:59:39.490 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 00:59:39.570 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 00:59:39.461(Timestamp), 2019-07-07 00:59:39.461(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 00:59:39.574 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 00:59:39.589 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:39.589 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop67/2019070700593947530.jpg
+2019-07-07 00:59:39.589 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:39.589 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 00:59:39.589 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop67/2019070700593947530.jpg
+2019-07-07 00:59:39.667 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 00:59:39.668 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop67/2019070700593947530.jpg(String), 2019-07-07 00:59:39.461(Timestamp), 0(Integer), 审核中8(String), 67(Long)
+2019-07-07 00:59:39.711 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 01:00:14.144 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 01:00:14.212 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 01:00:14.111(Timestamp), 2019-07-07 01:00:14.111(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 01:00:14.215 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 01:00:14.233 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:14.234 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop68/2019070701001487654.jpg
+2019-07-07 01:00:14.234 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:14.234 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:14.234 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop68/2019070701001487654.jpg
+2019-07-07 01:00:14.301 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 01:00:14.303 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop68/2019070701001487654.jpg(String), 2019-07-07 01:00:14.111(Timestamp), 0(Integer), 审核中8(String), 68(Long)
+2019-07-07 01:00:14.304 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 01:00:43.230 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 01:00:43.307 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 01:00:43.2(Timestamp), 2019-07-07 01:00:43.2(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 01:00:43.309 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 01:00:43.327 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:43.328 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop69/2019070701004374511.jpg
+2019-07-07 01:00:43.328 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:43.328 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:00:43.329 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop69/2019070701004374511.jpg
+2019-07-07 01:00:43.418 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 01:00:43.422 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop69/2019070701004374511.jpg(String), 2019-07-07 01:00:43.2(Timestamp), 0(Integer), 审核中8(String), 69(Long)
+2019-07-07 01:00:43.424 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 01:01:20.206 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 01:01:20.302 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 01:01:20.167(Timestamp), 2019-07-07 01:01:20.167(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 01:01:20.306 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 01:01:20.320 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:01:20.321 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop70/2019070701012017136.jpg
+2019-07-07 01:01:20.321 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:01:20.321 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 01:01:20.321 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop70/2019070701012017136.jpg
+2019-07-07 01:01:21.093 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 01:01:21.095 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop70/2019070701012017136.jpg(String), 2019-07-07 01:01:20.167(Timestamp), 0(Integer), 审核中8(String), 70(Long)
+2019-07-07 01:01:21.096 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 14:39:05.648 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id, area_id, shop_category_id, shop_name, shop_desc, shop_addr, phone, shop_img, create_time, last_edit_time, enable_status, advice) values (?,?,?,?,?,?,?,?,?,?,?,?) 
+2019-07-07 14:39:05.714 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - ==> Parameters: 2(Long), 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), null, 2019-07-07 14:39:05.618(Timestamp), 2019-07-07 14:39:05.618(Timestamp), 0(Integer), 审核中8(String)
+2019-07-07 14:39:05.743 [main] DEBUG com.zhoujie.dao.ShopDao.insertShop - <==    Updates: 1
+2019-07-07 14:39:05.763 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 14:39:05.763 [main] DEBUG com.zhoujie.util.ImageUtil - current relativeAddr:upload/item/shop71/2019070714390546013.jpg
+2019-07-07 14:39:05.763 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 14:39:05.763 [main] DEBUG com.zhoujie.util.PathUtil - /Users/zhoujie/image/
+2019-07-07 14:39:05.763 [main] DEBUG com.zhoujie.util.ImageUtil - current complete addr:/Users/zhoujie/image/upload/item/shop71/2019070714390546013.jpg
+2019-07-07 14:39:06.843 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET area_id=?, shop_category_id=?, shop_name=?, shop_desc=?, shop_addr=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=? where shop_id=? 
+2019-07-07 14:39:06.844 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - ==> Parameters: 1(Integer), 1(Long), 大排档88(String), 测试88(String), 江苏盐城88(String), 18806172172(String), upload/item/shop71/2019070714390546013.jpg(String), 2019-07-07 14:39:05.618(Timestamp), 0(Integer), 审核中8(String), 71(Long)
+2019-07-07 14:39:06.855 [main] DEBUG com.zhoujie.dao.ShopDao.updateShop - <==    Updates: 1
+2019-07-07 23:22:09.739 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category order by priority desc 
+2019-07-07 23:22:09.798 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-07-07 23:22:09.843 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-07-07 23:26:41.398 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category order by priority desc 
+2019-07-07 23:26:41.473 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-07-07 23:26:41.542 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-07-07 23:30:20.585 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category order by priority desc 
+2019-07-07 23:30:20.664 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-07-07 23:30:20.727 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-07-07 23:30:20.736 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id=? order by priority desc 
+2019-07-07 23:30:20.737 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-07-07 23:30:20.740 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-07-07 23:35:23.004 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category order by priority desc 
+2019-07-07 23:35:23.075 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-07-07 23:35:23.139 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-07-07 23:36:04.388 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category order by priority desc 
+2019-07-07 23:36:04.459 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-07-07 23:36:04.519 [main] DEBUG com.zhoujie.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
